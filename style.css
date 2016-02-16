@@ -1,0 +1,21 @@
+h1 { background-color: #3399FF  ;
+  color: #000066 ;
+  font-family: Georgia,serif ; }
+  body { background-color: #3399FF  ;
+		color: #FFFFFF ;
+		font-family: Georgia,serif ;}
+	header { background-color: #FFFF00  ;
+		color: #FFFFFF; font-size: 150%;}
+	main {padding 10 px 20px; display: block; overflow: auto;}
+	footer { font-size: 80%;
+			font-style: italic; }
+nav ul {
+	list-style-type: none; color: white;
+	margin: 0;
+	padding: 0;}
+.container {width: 800px; margin: 0 auto;}
+.main {width: 500px; float: left;}
+.sidebar {width: 300px; float: right;}
+  a:link {color: white;}
+  a:visited{color: #000066}
+  a:hover {color: green}
