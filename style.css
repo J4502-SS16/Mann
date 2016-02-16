@@ -6,7 +6,7 @@ h1 { background-color: #3399FF  ;
 		font-family: Georgia,serif ;}
 	header { background-color: #FFFF00  ;
 		color: #FFFFFF; font-size: 150%;}
-	main {padding 10px 20px; display: block; overflow: auto;}
+	main {padding: 10px 20px; display: block; overflow: auto;}
 	footer { font-size: 80%;
 			font-style: italic; }
 .nav {
